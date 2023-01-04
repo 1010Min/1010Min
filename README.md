@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=BFACE0&text=Hello&desc=%I'm%20SungMin&descAlignY=80&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=BFACE0&text=Hello&desc=%My%20Name%20is%20SungMin&descAlignY=80&fontColor=FFFFFF)
 
 <div align="center">
 <br/>
