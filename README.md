@@ -42,10 +42,14 @@
   |2021.09 ~ 2021.12|NIA|**[지역화폐 현황 분석]** 지역화폐 충전 및 소비패턴 분석|Python, Tableau|
   |2022.01 ~ 2022.03|Side Project|**[[슬기로운 수강신청]](https://github.com/1010Min/side-project)** 신입생들을 위한 수강신청 안내 웹 페이지|HTML/CSS/JavaScript, JAVA|
 
-  ***
+  *** 
+ </div>
+ 
+ <div style="display: table, height:180px, margin-left: auto, margin-right: auto">
 
-  ![Anurag's GitHub  stats](https://github-readme-stats.vercel.app/api?username=1010Min&show_icons=true&theme=material-palenight)
-
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=1010Min&theme=nord&show_icons=true&hide_border=true" alt="1010Min's github stats" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1010Min&layout=compact&theme=nord&hide_border=true" />
+  
 </div>
 
 <!--
