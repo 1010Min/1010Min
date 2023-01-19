@@ -37,7 +37,7 @@
   |2019.11|WIC 해커톤|**[찰나]** 노인 대상 향수 자극 서비스 웹페이지 제작|HTML/CSS/JavaScript|
   |2020.03 ~ 2020.07|자기주도 진로설계 프로젝트|**[내신]** 내신 영어 문제 출제 모바일 앱|JAVA|
   |2020.05 ~ 2021.03|졸업 프로젝트|**[Dot2Dot]** 3D VR 한붓그리기 모바일 게임 앱|C#, Unity|
-  |2021.08|G-BIG 해커톤|**[공공빅데이터 청년인턴]** 서울시 간이 쉼터 최적 입지 선정|Python, QGIS|
+  |2021.08|G-BIG 해커톤|**[[공공빅데이터 청년인턴]](https://github.com/1010Min/Gbig-Hackathon/tree/1010Min)** 서울시 간이 쉼터 최적 입지 선정|Python, QGIS|
   |2021.11|SMSW 해커톤|**[[숙명 학과 트랙 추천 서비스]](https://github.com/1010Min/-chili-sauce)** 학과 트랙 추천 웹 페이지|HTML/CSS/JavaScript|
   |2021.09 ~ 2021.12|NIA|**[지역화폐 현황 분석]** 지역화폐 충전 및 소비패턴 분석|Python, Tableau|
   |2022.01 ~ 2022.03|Side Project|**[[슬기로운 수강신청]](https://github.com/1010Min/side-project)** 신입생들을 위한 수강신청 안내 웹 페이지|HTML/CSS/JavaScript, JAVA|
