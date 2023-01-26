@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=BFACE0&text=Hello&desc=%My%20Name%20is%20SungMin&descAlignY=75&fontColor=FFFFFF&height=150)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=BFACE0&text=Hello&desc=%My%20Name%20is%20SungMin&descAlignY=75&fontColor=FFFFFF&height=150)
 
   ## ✨About Me✨
   <a href="">
