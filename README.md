@@ -55,7 +55,7 @@
       <img style="width: 45%; display: inline-block" src="https://github-readme-stats.vercel.app/api?username=1010Min&theme=nord&show_icons=trues&hide_border=true"/>
     </a>
     <a>
-    <img style="width: 38%; display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1010Min&layout=compact&theme=nord&count-private=true&hide_border=true&hide=ShaderLab,HLSL" />
+    <img style="width: 38%; display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1010Min&count_private=true&layout=compact&theme=nord&hide_border=true&hide=ShaderLab,HLSL" />
     </a>
   </p>
   
